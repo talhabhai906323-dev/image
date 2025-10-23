@@ -1,5 +1,5 @@
 image 
-xploring Natural Wonders
+<h1>xploring Natural Wonders</h1>
 Falls, Zimbabwe
 Grand Canyon, USA
 Aurora Borealis, Various Countries
